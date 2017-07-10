@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package main
 
 import (
@@ -4656,4 +4656,4 @@ func main() {
 		fmt.Printf("Error starting ABC: %s", err)
 	}
 }
->>>>>>> e331feac303db208519f316c2305249582328444
+
